@@ -824,5 +824,65 @@
         "name": "StatTrak™ M4A1-S | Briefing (Factory New)",
         "float": 0.001,
         "price": 300
-    }
+    },
+{
+
+    "name": "Desert Eagle | Code Red (Battle-Scarred)",   
+    "float": 0.41,
+    "price": 300
+},
+{
+
+    "name": "Desert Eagle | Code Red (Field-Tested)",
+    "float": 0.19,
+    "price": 300
+},
+{
+
+    "name": "Desert Eagle | Code Red (Minimal Wear)",
+    "float": 0.094,
+    "price": 300
+},
+{
+
+    "name": "StatTrak™ Desert Eagle | Code Red (Field-Tested)",
+    "float": 0.18,
+    "price": 300
+},
+{
+
+    "name": "Desert Eagle | Mecha Industries (Factory New)",
+    "float": 0.01,
+    "price": 300
+},
+{
+
+    "name": "Desert Eagle | Mecha Industries (Minimal Wear)",
+    "float": 0.09,
+    "price": 300
+},
+{
+
+    "name": "Desert Eagle | Mecha Industries (Field-Tested)",
+    "float": 0.167,
+    "price": 300
+},
+{
+
+    "name": "StatTrak™ Desert Eagle | Mecha Industries (Factory New)",
+    "float": 0.01,
+    "price": 300
+},
+{
+
+    "name": "StatTrak™ Desert Eagle | Mecha Industries (Minimal Wear)",
+    "float": 0.08,
+    "price": 300
+},
+{
+
+    "name": "StatTrak™ Desert Eagle | Mecha Industries (Field-Tested)",
+    "float": 0.159,
+    "price": 300
+}
     ]
