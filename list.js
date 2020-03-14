@@ -1,12 +1,19 @@
 [
     {
-        "name": "AWP | Wildfire (Factory New)", "float": 0.03, "price": 300
+        "name": "AWP | Wildfire (Factory New)",
+        "float": 0.03,
+        "price": 300
     },
     {
         "name": "AWP | Wildfire (Minimal Wear)",
         "float": 0.08,
         "price": 300
-    }, {"name": "AWP | Wildfire (Field-Tested)", "float": 0.18, "price": 300}, {
+          },
+    {"name": "AWP | Wildfire (Field-Tested)",
+        "float": 0.18,
+        "price": 300},
+    {
+        
         "name": "AWP | Wildfire (Battle-Scarred)",
         "float": 0.5,
         "price": 300
@@ -106,43 +113,78 @@
         "name": "AWP | BOOM (Minimal Wear)",
         "float": 0.08,
         "price": 300
-    }, {"name": "AK-47 | Asiimov (Minimal Wear)", "float": 0.09, "price": 300}, {
+    },
+    {"name": "AK-47 | Asiimov (Minimal Wear)", "float": 0.09, "price": 300}, {
         "name": "AK-47 | Asiimov (Battle-Scarred)",
         "float": 0.46,
         "price": 300
-    }, {
+    },
+    {
         "name": "StatTrak™ AK-47 | Asiimov (Field-Tested)",
         "float": 0.2,
         "price": 300
-    }, {
+    },
+    {
         "name": "StatTrak™ AK-47 | Asiimov (Minimal Wear)",
         "float": 0.11,
         "price": 300
-    }, {
+    },
+    {
         "name": "StatTrak™ AK-47 | Uncharted (Factory New)",
         "float": 0.01,
         "price": 300
-    }, {
+    },
+    {
         "name": "StatTrak™ AK-47 | Uncharted (Field-Tested)",
         "float": 0.16,
         "price": 300
-    }, {
+    },
+    {
+        "name": "AK-47 | Neon Rider (Factory New)",
+        "float": 0.02,
+        "price": 300
+    },
+    {
+        "name": "StatTrak™ AK-47 | Neon Rider (Factory New)",
+        "float": 0.01,
+        "price": 300
+    },
+    {
         "name": "AK-47 | Neon Rider (Field-Tested)",
         "float": 0.17,
         "price": 300
-    }, {
+    },
+    {
+        "name": "AK-47 | Neon Rider (Battle-Scarred)",
+        "float": 0.46,
+        "price": 300
+    },
+    {
+        "name": "StatTrak™ AK-47 | The Empress (Factory New)",
+        "float": 0.02,
+        "price": 600
+    },    
+    {
         "name": "AK-47 | The Empress (Minimal Wear)",
         "float": 0.08,
         "price": 300
-    }, {
-        "name": "AK-47 | Orbit Mk01 (Minimal Wear)",
-        "float": 0.076,
+    },
+    {
+        "name": "AK-47 | The Empress (Field-Tested)",
+        "float": 0.16,
         "price": 300
-    }, {
-        "name": "AK-47 | Orbit Mk01 (Field-Tested)",
-        "float": 0.156,
+    },
+    {
+        "name": "AK-47 | Orbit Mk01 (Factory New)",
+        "float": 0.001,
         "price": 300
-    }, {
+    },    
+    {
+        "name": "StatTrak™ AK-47 | Orbit Mk01 (Factory New)",
+        "float": 0.001,
+        "price": 300
+    },
+    {
         "name": "AK-47 | Bloodsport (Factory New)",
         "float": 0.01,
         "price": 300
