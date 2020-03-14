@@ -1,4 +1,4 @@
-const al = [
+
     {
         "name": "AWP | Wildfire (Factory New)", "float": 0.03, "price": 300
     },
