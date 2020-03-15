@@ -1,5 +1,10 @@
 [
     {
+        "name": "AK-47 | redline (Field-Tested)",
+        "float": 0.99,
+        "price": 300
+    },
+    {
         "name": "AWP | Wildfire (Factory New)",
         "float": 0.03,
         "price": 300
