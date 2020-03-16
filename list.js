@@ -732,7 +732,7 @@
     },
     {
         "name": "M4A1-S | Decimator (Factory New)",
-        "float": 0.01,
+        "float": 0.003,
         "price": 300
     },
     {
@@ -858,7 +858,7 @@
 {
 
     "name": "Desert Eagle | Mecha Industries (Minimal Wear)",
-    "float": 0.09,
+    "float": 0.076,
     "price": 300
 },
 {
