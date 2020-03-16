@@ -347,12 +347,12 @@
     },
     {
         "name": "M4A4 | The Emperor (Field-Tested)",
-        "float": 0.24,
+        "float": 0.17,
         "price": 300
     },
     {
         "name": "M4A4 | The Emperor (Battle-Scarred)",
-        "float": 0.5,
+        "float": 0.48,
         "price": 300
     },
     {
@@ -592,7 +592,7 @@
     },
     {
         "name": "M4A1-S | Mecha Industries (Field-Tested)",
-        "float": 0.163,
+        "float": 0.16,
         "price": 300
     },
     {
