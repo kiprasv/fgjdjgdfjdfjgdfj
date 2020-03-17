@@ -1,5 +1,10 @@
 [
     {
+        "name": "USP-S | Neo-Noir (Minimal Wear)",
+        "float": 0.08,
+        "price": 300
+    },
+    {
         "name": "StatTrak™ Desert Eagle | Crimson Web (Field-Tested)",
         "float": 0.16,
         "price": 300
