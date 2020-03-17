@@ -1,5 +1,15 @@
 [
     {
+        "name": "AK-47 | Elite Build (Factory New)",
+        "float": 0.01,
+        "price": 300
+    },
+    {
+        "name": "SSG 08 | Abyss (Factory New)",
+        "float": 0.02,
+        "price": 300
+    },    
+    {
         "name": "AWP | Wildfire (Factory New)",
         "float": 0.03,
         "price": 300
