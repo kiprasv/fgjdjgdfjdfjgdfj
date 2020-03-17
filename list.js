@@ -5,8 +5,8 @@
         "price": 300
     },
     {
-        "name": "SSG 08 | Abyss (Factory New)",
-        "float": 0.02,
+        "name": "Desert Eagle | Crimson Web (Minimal Wear)",
+        "float": 0.08,
         "price": 300
     },    
     {
