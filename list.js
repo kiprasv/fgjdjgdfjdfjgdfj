@@ -1,7 +1,7 @@
 [
     {
-        "name": "AK-47 | Elite Build (Factory New)",
-        "float": 0.01,
+        "name": "StatTrak™ Desert Eagle | Crimson Web (Field-Tested)",
+        "float": 0.16,
         "price": 300
     },
     {
