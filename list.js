@@ -1,10 +1,4 @@
 [
-  AWP | BOOM (Field-Tested)
-    {
-        "name": "AWP | BOOM (Field-Tested)",
-        "float": 0.16,
-        "price": 300
-    },
     {
         "name": "USP-S | Neo-Noir (Minimal Wear)",
         "float": 0.08,
