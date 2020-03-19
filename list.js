@@ -1,5 +1,10 @@
 [
     {
+        "name": "★ Hand Wraps | Arboreal (Field-Tested)",
+        "float": 0.23,
+        "price": 300
+    },
+    {
         "name": "USP-S | Neo-Noir (Minimal Wear)",
         "float": 0.08,
         "price": 300
