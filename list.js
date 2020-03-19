@@ -1,7 +1,12 @@
 [
     {
+        "name": "★ Driver Gloves | Lunar Weave (Field-Tested)",
+        "float": 0.20,
+        "price": 300
+    },
+    {
         "name": "USP-S | Cortex (Minimal Wear)",
-        "float": 0.14,
+        "float": 0.09,
         "price": 300
     },
     {
@@ -397,7 +402,7 @@
     },
     {
         "name": "StatTrak™ M4A4 | The Emperor (Battle-Scarred)",
-        "float": 0.5,
+        "float": 0.48,
         "price": 300
     },
     {
