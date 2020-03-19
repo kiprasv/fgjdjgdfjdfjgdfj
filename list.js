@@ -1,5 +1,10 @@
 [
     {
+        "name": "StatTrak™ USP-S | Neo-Noir (Field-Tested)",
+        "float": 0.17,
+        "price": 300
+    },
+    {
         "name": "★ Driver Gloves | Lunar Weave (Field-Tested)",
         "float": 0.20,
         "price": 300
