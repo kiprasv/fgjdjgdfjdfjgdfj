@@ -1,5 +1,10 @@
 [
     {
+        "name": "USP-S | Cortex (Minimal Wear)",
+        "float": 0.14,
+        "price": 300
+    },
+    {
         "name": "★ Hand Wraps | Arboreal (Field-Tested)",
         "float": 0.23,
         "price": 300
