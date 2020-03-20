@@ -137,7 +137,7 @@
     },
     {
         "name": "AWP | Mortis (Field-Tested)",
-        "float": 0.16,
+        "float": 0.155,
         "price": 300
     },
     {
@@ -607,7 +607,7 @@
     },
     {
         "name": "M4A4 | Converter (Minimal Wear)",
-        "float": 0.09,
+        "float": 0.08,
         "price": 300
     },
     {
