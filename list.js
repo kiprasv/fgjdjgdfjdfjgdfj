@@ -1,3 +1,4 @@
 [{
-"name":"lol"
+"name":"lol",
+  "kir":"top"
 }]
